@@ -1,0 +1,221 @@
+{
+    "MeslekYuksekOkulu":
+        {
+            "BolumAdi":"Adalet",
+            "BolumHakkinda":"Eğitim-öğretim faaliyetine 2012 yılında başlayan Adalet programı, öğrencilerine, hukukun temel alanları ile ilgili olarak genel teorik bilgi vermenin yanı sıra, hukuk uygulamasında kullanacakları pratik bilgi ve beceriyi de kazandırmaktadır. Adalet programında öğrenciler, adli ve idari yargı teşkilatlarında adalet hizmetlerini yürütmek üzere, ceza infaz kurumlarında veya avukatlık bürolarında avukat yardımcısı olarak istihdam edilmek üzere hazırlanmaktadırlar.",
+            "BolumTanimi":"4 yarıyıldan oluşan bu programın amacı, gerekli olan hukuk bilgisini teorik dersler ile vermek ve bu bilgileri mecburi olarak yaptırılan mesleki stajda öğrenilen pratik tecrübe ile tamamlayarak, hukuk teorisini ve uygulamasını birlikte öğrenmiş meslek elemanlarının yetişmesidir.",
+            "BolumDili":"Programın eğitim dili Türkçe’dir.",
+            "Misyon":"Hukuk alanında teorik bilgiye sahip olup bunu pratik bilgi ve beceri ile birleştirebilen, adli ve idari yargıda, özel sektörde veya ceza infaz kurumlarında çalışabilecek nitelikte, mesleki bilgi ve deneyimle donanmış meslek elemanlarının yetişmesini sağlamaktır.",
+            "Vizyon":"Hukuk kuralları, toplumun ihtiyaçları ile birlikte değişir. Bu sebeple, hukuk alanındaki gelişmeleri takip eden ve bunları mesleki etik kurallarının bilincinde olarak uygulayan meslek elemanlarının varlığı, hukuk uygulamasında başarı elde edilmesinde önemli rol oynar. Amacımız çağın gereklerinin farkında olan ehil meslek elemanları yetiştirmektir.",
+            "Danisma":[
+            {"AdSoyad":"Mustafa Ülkü CANER", "CalistigiFirma":"Avusturya Cumhuriyeti Fahri Konsolosluğu /İzmir Barosu", "GorevPozisyon":"Avusturya Cumhuriyet İzmir Fahri Konsolosu"},
+            {"AdSoyad":"Uğur DEMİRCAN", "CalistigiFirma":"Demiray Hukuk Bürosu", "GorevPozisyon":"Kurucu Ortak/Avukat"},
+            {"AdSoyad":"Burcu ÇOTUKSÖKEN", "CalistigiFirma":"Çotuksöken Hukuk Bürosu", "GorevPozisyon":"Avukat"},
+            {"AdSoyad":"Ahmet Emre YÜKSEL", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Bölüm Başkanı / Öğretim Görevlisi"}, 
+            {"AdSoyad":"Seden DÜRÜSTKAN", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Öğretim Görevlisi"},
+            {"AdSoyad":"Sena VURAL", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Öğretim Görevlisi"},
+            {"AdSoyad":"Sinem Gül BAYRAKDAR", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Öğretim Görevlisi"},
+            {"AdSoyad":"Ayten İdil RAMAZANOĞLU", "CalistigiFirma":"İstanbul Barosu'na Bağlı Serbest Avukat", "GorevPozisyon":"Avukat"},
+            {"AdSoyad":"Özge HANAVDELOĞULLARI", "CalistigiFirma":"Hukuk Fakültesi Öğrencisi", "GorevPozisyon":"Eski Mezun/Hukuk Fakültesi Öğrencisi"}
+            ],
+            "Program Temel Ogrenme Ciktilari": "1.Kamu Hukuku ve Özel Hukuk ayrımı ve bu ayrımın sonuçları hakkında bilgi sahibi olur. 2.Hukuk alanına ilişkin teorik bilgileri kullanarak uygulamada karşılaşabileceği sorunları öngörebilme ve çözebilme becerisine sahip olur. 3.Analitik düşünce yöntemini öğrenir ve hukuki kavramları karşılaştırabilme kabiliyetine sahip olur. 4.Vaka analizleri yaparak, teorik bilgileri pratik uygulamada kullanabilme becerisini kazanır 5.Hukuk uygulaması ve adli mekanizmanın işleyişiyle ilgili kapsamlı bilgiye sahip olur 6.Hukuki bilgi kaynaklarına ulaşma ve bunları etkin şekilde kullanma metodları hakkında bilgi ve beceri sahibi olur. 7.Uygulamada karşılaştığı hukuki sorunları, başta anayasa ve kanunlar olmak üzere, yargı içtihatları ve doktrin ile yorumlayıp çözüme kavuşturabilecek beceriye sahip olur. 8.Hukuki bilgi ve düşüncelerini yazılı ve sözlü olarak etkili bir biçimde ifade edebilme yeteneğine sahip olur. 9.Kamu kurumlarının işleyişi ve bağlı oldukları hukuki rejimler hakkında genel bilgi sahibi olur 10.Bireyin devlet karşısında sahip olduğu ve gerek iç hukuktan ve gerekse uluslararası hukuktan doğan hakları ve yükümlülükleri hakkında bilgi sahibi olur. 11.Klavye kullanımı ve hukuki ve adli yazışma teknikleri hakkında bilgi ve ustalık sahibi olur 12.Hukuki yazı dilini gramer kurallarına uygun şekilde ve uygulamada kabul edilen standartlarıyla öğrenir. 13.Hukuk mesleğinin kuralları ve meslek etiği hakkında bilgi sahibi olur 14.Özel hukuk kişileri ve bunlar arasındaki hukuki ilişkiler hakkında bilgi sahibi olur",
+            "UstDereceyeGecis":"Bu programdan mezun olan öğrenciler, ÖSYM tarafından yapılan Dikey Geçiş Sınavında (DGS) başarılı olmaları durumunda Hukuk Fakültelerine geçiş yapma hakkını kazanabilirler.",
+            "Ders Tanimlari":"https://www.maltepe.edu.tr/myo/tr/ders-tanimlari-147"
+        },
+        {
+            "BolumAdi":"Anestezi",
+            "BolumHakkinda":"Anestezi Programının amacı, kamu kurum ve kuruluşları ile özel sağlık kuruluşlarında ameliyat öncesi hasta hazırlığı yapabilen, ameliyat esnasında hastanın yaşamsal bulgularını takip eden, ameliyat sonrası dönemde hastanın derlenmesini ve izlemini gerçekleştirebilecek bilgi ve donanıma sahip, tıp dünyasındaki gelişmeleri takip eden, nitelikli bireyler yetiştirmektir.",
+            "BolumTanimi":"Programın amacı; kamu kurum ve kuruluşları ile özel sağlık kuruluşlarında ameliyat öncesi hasta hazırlığı yapabilen, ameliyat esnasında hastanın yaşamsal bulgularını takip eden, ameliyat sonrası dönemde hastanın derlenmesini ve izlemini gerçekleştirebilecek bilgi ve donanıma sahip, tıp dünyasındaki gelişmeleri takip eden, nitelikli yardımcı sağlık personeli yetiştirmektir.",
+            "BolumDili":"Programın eğitim dili Türkçe’dir.",
+            "Misyon":"Kamu kurum ve kuruluşları ile özel sektör işletmelerinde hastanın ameliyathane sürecine uygun bir şekilde hazırlanması, anestezi uygulamaları sırasında anestezi uzmanının gözetiminde hareket eden ve anestezi cihaz ve ekipmanlarının kontrol ve bakımını yapma bilgisine sahip olan nitelikli anestezi teknikerleri yetiştirmektir.",
+            "Vizyon":"Vizyonumuz, dikkatli, sabırlı, titiz, sorumluluk sahibi, edindiği bilgileri ve yeteneklerini doğru kullanabilen, hastaya ve hasta haklarına saygılı, kişilerarası ilişkilerde başarılı, ekip çalışmasına inanan, yeniliklere açık ve çağdaş öğrenciler yetiştiren bir kurum olmak.",
+            "Danisma":[
+            {"AdSoyad":"Z. Serpil USTALAR ÖZGEN", "CalistigiFirma":"Acıbadem Mehmet Ali Aydınlar Üniversitesi Tıp Fakültesi Anesteziyoloji ve Reanimasyon Anabilim Dalı / Anestezi Teknisyen ve Teknikerleri Derneği Onursal Üyesi", "GorevPozisyon":"Doçent Doktor"},
+            {"AdSoyad":"Samime DURMAZ", "CalistigiFirma":"Anestezi Teknisyen ve Teknikerleri Derneği 5. Dönem Yönetim Kurulu Başkanı / Acıbadem Üniversitesi Uzman Eğitici", "GorevPozisyon":"Anestezi Teknikeri"},
+            {"AdSoyad":"Fidan KÜDÜR ÇIRPAN", "CalistigiFirma":"Marmara Üniversitesi Sağlık Hizmetleri Meslek Yüksekokulu Anestezi Programı / Anestezi Teknisyen ve Teknikerleri Derneği Eğitim Komisyonu Üyesi", "GorevPozisyon":"Öğretim Görevlisi"},
+            {"AdSoyad":"Tuba USSELİ", "CalistigiFirma":"Acıbadem Üniversitesi Sağlık Hizmetleri Meslek Yüksekokulu Anestezi Programı / Anestezi Teknisyen ve Teknikerleri Derneği Yönetim Kurulu ve Eğitim Komisyonu Üyesi", "GorevPozisyon":"Öğretim Görevlisi"}, 
+            {"AdSoyad":"Ayşegül HAKBİLEN", "CalistigiFirma":"Maltepe Üniversitesi Tıp Fakültesi Hastanesi Anestezi ve Reanimasyon Anabilim Dalı", "GorevPozisyon":"Anestezi Teknikeri"},
+            {"AdSoyad":"Samet OKAY", "CalistigiFirma":"Maltepe Üniversitesi Tıp Fakültesi Hastanesi Anestezi ve Reanimasyon Anabilim Dalı", "GorevPozisyon":"Anestezi Teknikeri"},
+            {"AdSoyad":"İrem CİNNET", "CalistigiFirma":"Acıbadem Üniversitesi Sağlık Hizmetleri Meslek Yüksekokulu Anestezi Programı Uzman Eğitici / Anestezi Teknisyen ve Teknikerleri Derneği Yönetim Kurulu ve Eğitim Komisyonu Üyesi", "GorevPozisyon":"Anestezi Teknikeri"},
+            {"AdSoyad":"Merve Nur KORKMAZ", "CalistigiFirma":"Sultanbeyli Devlet Hastanesi Anestezi Kliniği / Maltepe Üniversitesi Meslek Yüksekokulu Tıbbi Hizmetler ve Teknikler Bölümü Anestezi Programı Mezun Öğrencisi", "GorevPozisyon":"Anestezi Teknikeri"},
+            {"AdSoyad":"Erdem BAYIR", "CalistigiFirma":"İstanbul Başkent Üniversitesi Hastanesi / Maltepe Üniversitesi Meslek Yüksekokulu Tıbbi Hizmetler ve Teknikler Bölümü Anestezi Programı Mezun Öğrencisi", "GorevPozisyon":"Anestezi Teknikeri"},
+            {"AdSoyad":"Asu GÜRER", "CalistigiFirma":"Marmara Üniversitesi Sağlık Hizmetleri Meslek Yüksekokulu Anestezi Programı / Anestezi Teknisyen ve Teknikerleri Derneği Eğitim Komisyonu Üyesi", "GorevPozisyon":"Öğretim Görevlisi"},     
+            {"AdSoyad":"Abdullah ATAR", "CalistigiFirma":"Anestezi Teknisyen ve Teknikerleri Derneği Yönetim Kurulu Yedek Üyesi / Sağlık Bilimleri Üniversitesi Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi", "GorevPozisyon":"Anestezi Teknikeri"},  
+            {"AdSoyad":"Erdal YILDIRIM", "CalistigiFirma":"İstanbul Kartal Koşuyolu Yüksek İhtisas Eğitim ve Araştırma Hastanesi", "GorevPozisyon":"Anestezi Teknikeri"}
+            ],
+            "Program Temel Ogrenme Ciktilari": "1.Teorik alan bilgilerini pratik uygulamalarda kullanabilme 2.Meslek alanındaki tıbbi terminolojiyi doğru kullanabilme 3.Meslek alanında ilgili etik ve temel yasal sorumluluklara uygun davranabilme 4.Meslek alanı ile ilgili bilişim ve iletişim teknolojilerini kullanabilme 5.Bir yabancı dilde temel düzeyde iletişim kurabilme 6.Günümüz teknolojisine uygun araç, gereç ve teknikleri kullanabilme 7.Sağlıklı yaşam boyu vücut aktivitelerini geliştirerek kişisel ve mesleki güveni arttırabilme 8.Mesleksel verileri alanı ile ilgili temel bilgi ve becerilerle değerlendirme ve analiz etme 9.Diğer sağlık ekip üyeleri ile etkili iletişim kurabilme becerisi geliştirme 10.Anestezi öncesi hasta ve ameliyat odasındaki tüm hazırlıkları yapabilme 11.Anestezi uygulaması sırasında anestezi doktoru kontrolünde hasta takibini yapabilme ve mesleki sorumluluklarının bilincinde olabilme 12.Anestezinin sonlandırılması sırasında hastanın hayati fonksiyonlarının değerlendirilmesini yapabilme 13.Derlenme odasında hastanın tüm hayati fonksiyonlarının değerlendirilmesi ve yoğun bakım veya hasta odasına nakline kadar geçen süreçte hasta güvenliğinin sağlanması",
+            "UstDereceyeGecis":"Mezun olan öğrenciler, ön lisans diploması ile YÖK?ün ilgili mevzuatı doğrultusunda, kendi alanları ile ilgili diğer üniversitelerin Acil Yardım ve Afet Yönetimi, Hemşirelik, Hemşirelik ve Sağlık Hizmetleri programlarına (lisans programları) başvurabilir ve dikey geçiş yapabilirler.",
+            "Ders Tanimlari":"https://www.maltepe.edu.tr/myo/tr/dersler"
+        },
+        {
+            "BolumAdi":"BankacilikveSigortacilik",
+            "BolumHakkinda":"Eğitim-öğretim faaliyetine 2009-2010 Eğitim ve Öğretim döneminde başlayan Bankacılık ve Sigortacılık Programı, öğrencileri akademik disiplinlerin uygulama ve mesleki boyutlarına öncelik veren ders programları ile eğitimde iş pratiği anlayışına uygun olarak bankacılık ve sigortacılık sektöründe istihdam edilmeye hazırlamaktadır.",
+            "BolumTanimi":"Dört yarıyılı kapsayan ön lisans programının amacı; öğrencilerin, program dersleriyle teorik bilgilerin verilmesi, son yarıyıldaki staj ile mezuniyet öncesi eğitim pratiği gerçekleştirilerek bankacılık ve sigortacılık sektöründe çalışmalarını sağlayacak bilgi, beceri ve yetkinliklerle donatmaktır.",
+            "BolumDili":"Programın eğitim dili Türkçe’dir.",
+            "Misyon":"Ekonomide önemli fonksiyonları olan ve son yıllarda yeniden yapılanan bankacılık ve sigortacılık sektörünün gereksinimine cevap verecek, temel işletmecilik eğitimi almış, teorik ve pratik bilgilerle donanmış ulusal ve uluslararası yasal düzenlemelere hâkim eğitimli ve kalifiye eleman yetiştirmek.",
+			"Vizyon":"Program çerçevesinde, küresel sisteme bütünleşmiş bankacılık ve sigortacılık sektörlerinde görev alabilecek nitelikte, mesleki bilgi ve deneyimle donanmış etik değerlere sahip elemanların yetiştirilmesini sağlamak.",
+			"Danisma":[
+            {"AdSoyad":"Selda Takmaz", "CalistigiFirma":"İş Bankası", "GorevPozisyon":"Bireysel Satış Yöneticisi"},
+            {"AdSoyad":"Necati Ulaş", "CalistigiFirma":"Anadolu Deniz İnşaat Kızakları San. Tic. A.Ş", "GorevPozisyon":"Finans/Muhasebe Sorumlusu"},
+            {"AdSoyad":"Merih Zengin", "CalistigiFirma":"Merka Sigorta", "GorevPozisyon":"Sigorta Acenta Sahibi"},
+            {"AdSoyad":"Fatih Sağlam", "CalistigiFirma":"Marmara Üniversitesi", "GorevPozisyon":"Öğrenci"}, 
+			{"AdSoyad":"Burak Küçük", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Öğretim Üyesi"},
+            {"AdSoyad":"Ahmet Mithat Kiziroğlu", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Öğretim Üyesi"},
+            {"AdSoyad":"Gülender Özakgün", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Öğretim Görevlisi"},
+            {"AdSoyad":"Aslı Öztopcu", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Öğretim Üyesi"},
+			{"AdSoyad":"Tolunay Kağan Ergin", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Öğretim Görevlisi"},
+            {"AdSoyad":"Buse Ecem Çapik", "CalistigiFirma":"WM Pharma", "GorevPozisyon":"Ortak"},     
+            {"AdSoyad":"Mahmut Başarır", "CalistigiFirma":"Neon Brokerlık", "GorevPozisyon":"Yönetici/Ortak"},  
+			{"AdSoyad":"Ebru Kiraz", "CalistigiFirma":"Neon brokerlık/Alo Kasko", "GorevPozisyon":"Yönetici/Ortak"},
+			{"AdSoyad":"Ayhan Çalık", "CalistigiFirma":"SAB", "GorevPozisyon":"Sigorta Acenteler Birliği Başkanı"}
+            ],
+            "Program Temel Ogrenme Ciktilari": "1.Bankacılık ve sigortacılık programı disiplinlerinin teorik ve uygulamalı temel bilgilerini edinir. 2.Edinilen bilgileri kullanabilme becerisine sahip olur. 3.Verileri değerlendirebilme, analiz edebilme becerisi edinir. 4.Tanımlanmış hedefe yönelik temel düzeydeki bir süreci planlama ve gerçekleştirme becerisi kazanır. 5.Bireysel çalışmalar ve ekip çalışmaları yapma yoluyla sorumluluk alır. 6.Mesleki ve toplumsal değerlere uyar. 7.Sözlü ve yazılı iletişim becerisine sahip olur. 8.İş hayatında ortaya çıkabilecek sorunlara çözüm önerileri getirebilme yeterliliği kazanır. 9.İş hayatında sosyal adalet, kültürel değerler, çevre ve iş güvenliği bilincine sahip olur. 10.Hayat boyu öğrenme becerisine sahip olur, ulusal ve uluslararası değişimleri uygulamaya koyar.",
+			"UstDereceyeGecis":"Bu programdan mezun olan öğrenciler, belirlenmiş kurallar uyarınca, lisans programlarına devam edebilirler.",
+			"Ders Tanimlari":"https://www.maltepe.edu.tr/myo/tr/ders-tanimlari-0143"
+        },
+        {
+            "BolumAdi":"Bilgisayar Programcılığı",
+            "BolumHakkinda":"Bilgisayar Programcılığı bölümü, bilgisayar sistemlerinin yapısı, yazılım geliştirilmesi ve bu sistemlerin etkin kullanımı konularında eğitim verir, uygulamalar yapar. Bilgisayar Programcılığı Bölümü'nde yürütülen ön lisans eğitimi, isteğe bağlı “ingilizce hazırlık” sınıfı dışında 2 yıldır. ISCED 1997 (International Standard Classification of Education - Uluslararası Standart Eğitim Sınıflaması) kapsamında, eğitim alanlarının sınıflamasından yararlanılarak programların genel çerçevesi belirlenmiş ve programımızın içerikleri tamamen yazılım sektörümüzün ihtiyaçları doğrultusunda hazırlanmıştır. Tüm dünyadaki gelişmelere paralel olarak Türkiye'de de Bilgisayar Programcılığı hızla gelişen ve birçok iş koluna uygulanabilen bir meslektir. Öğrenciler, donanım, yazılım ve her türlü sorunun çözümü için çıkarılması gerekli olan algoritmaların matematiksel alt yapısını da içeren laboratuvar olanaklarıyla donatılmış uygulama ağırlıklı bir öğrenim görmektedirler. Seçtiğimiz C/C#/C++ programlama dilleri eğitimin ağırlık noktasını oluşturmaktadır. Bölümde, yazılım uygulamalarını geliştirebilmek için gerekli algoritmalar, sistem analizi ve tasarımı, bilgisayar ağ sistemleri, internet programcılığı, veri tabanı yönetim sistemleri gibi mesleki dersler ağırlıklı olarak verilmektedir. Ayrıca Matematik, Grafik Animasyon derslerinde ise, sektöre yönelik tasarım ve uygulama öğretileri için gerekli güçlü matematik tabanlı yazılımlar kullanılmaktadır.",
+			"BolumTanimi":"Maltepe Üniversitesi Meslek Yüksekokulu Bilgisayar Programcılığı Programı, bilimsel yöntemler ışığında nitelikli, mesleki bilgi ve mesleki yabancı dil ile donanımlı, sorumluluk taşıyabilen, sorunlara kolayca çözüm üretebilen özgüveni tam, iş ahlakına sahip, değişimlere ve gelişmelere açık, sektörün ve toplumun ihtiyaç duyduğu kalitede eğitimli bireyleri yetiştirme amacını taşıyan bir programdır. Program temel olarak iki eğilim üzerine inşa edilmiştir. Birinci eğilim Web Programcılığı, ikinci eğilim ise Yazılım Uzmanlığıdır. Programdaki, zorunlu ve seçmeli dersler bu iki eğilim ayrımı gözetilerek düzenlenmiştir.",
+			"BolumDili":"Programın eğitim dili Türkçe’dir.",
+            "Misyon":"Ülkemizin teknoloji, bilişim ve yazılım sektörlerinin gereksinimi olan nitelikli yetişmiş insan gücüne katkıda bulunmak, bilgili ve iş ortamlarında hemen verim alınabilecek öğrenciler yetiştirmek.",
+			"Vizyon":"Öğrencilerimizi, ulusal ve uluslar arası kurum ve kuruluşlarda hemen istihdam edilebilecek, üst düzey uygulama becerisine sahip bilgisayar programcısı elemanlar olarak mezun etmek.",
+			"Danisma":[
+            {"AdSoyad":"Engin OĞUZAY", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Bilgisayar Programcılığı Bölüm Başkanı"},
+            {"AdSoyad":"Can RAZBONYALI", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Dr. Öğr. Üyesi"},
+            {"AdSoyad":"Kadir ERDEM", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Öğr. Gör."},
+            {"AdSoyad":"Levent YALÇIN", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Öğr. Gör."}, 
+			{"AdSoyad":"Önder ŞAHİNASLAN", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Dr. Öğr. Üyesi"},
+            {"AdSoyad":"Mesut RAZBONYALI", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Prof. Dr. Bilgisayar Mühendisliği - İngilizce"},
+            {"AdSoyad":"Ender ŞAHİNASLAN", "CalistigiFirma":"", "GorevPozisyon":"Bilgisayar Mühendisi"},
+            {"AdSoyad":"Binnur KUNT", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Bilgisayar Mühendisi"},
+			{"AdSoyad":"Reha ÇETİN", "CalistigiFirma":"Aktek Bilgi Iletisim Teknolojisi Sanayi ve Ticaret A.S.", "GorevPozisyon":"Bilgisayar Mühendisi"}
+            ],
+            "Program Temel Ogrenme Ciktilari": "1.Farklı sorunlardaki yazılım (kodlama) bilgilerinin kodlamasını yapar. 2.Veritabanı yönetimi, sorgulama, tasarımı konularındaki bilgilerini uygulamalarda kullanır. 3.Grafik animasyon konusunda proje geliştirir. 4.İnternet programcılığına ilişkin yazılım geliştirir. 5.Bilgisayar ağları konusundaki genel kavramları bilir. 6.Bilgisayar Programcılığı alanında sorunları algoritmik olarak tanımlar. 7.Uygulama alanlarında etkin çözümler üretir. 8.Bilgisayar Programcılığı uygulamaları için gerekli teknikleri ve aygıtları etkin şekilde kullanır. 9.Yeni Teknolojiler konularında çalışma yapabilir. 10.Etkin yazılı ve sözlü iletişim kurabilir. 11.Bireysel sorumluluk alabilme ve takım çalışmasına yatkındır.",
+			"UstDereceyeGecis":"Bu programdan mezun olan öğrenciler, belirlenmiş kurallar uyarınca, lisans programlarına devam edebilirler.",
+			"Ders Tanimlari":"https://www.maltepe.edu.tr/myo/tr/ders-tanimlari"
+        },
+        {
+            "BolumAdi":"Çocuk Gelişimi",
+            "BolumHakkinda":"Çocuk Gelişimi Programı, çocukların sağlıklı bir ortamda yaşayabilmeleri için eğitime ve danışmanlığa duyulan ihtiyacı karşılamak amacı ile kurulmuş bir ön lisans programıdır. Programın amacı, 0-18 yaş normal gelişim gösteren ve özel gereksinimi olan çocukların gelişimini destekleyici eğitim programı ile bu alanda çocuğa, aileye ve topluma hizmet sunan tüm birimlere, ara eleman yetiştirmektir. Programda, 0-18 yaş çocuklarının gelişimi ve eğitimine ilişkin kuramsal ve uygulamalı dersler yer almaktadır. Uygulamalı derslerde, normal gelişim gösteren ve özel gereksinimi olan çocukların bireysel ve grup eğitimlerine yer verilmektedir. Tüm bu çalışmalar, alanda yapılan gözlem ve uygulamalar ile birlikte yürütülmektedir. Uygulamalar; resmi ve özel okul öncesi eğitim kurumları ve özel eğitim okulları ile özel eğitim ve rehabilitasyon merkezlerinde gerçekleştirilmektedir. Çocuk gelişimi mezunları; özel ve resmi okulların okul öncesi eğitim kurumlarında, ana sınıflarında, gündüz bakım evleri/çocuk yuvaları/kreşlerde, özel eğitim ve rehabilitasyon merkezlerinde çalışabilirler.",
+			"BolumTanimi":"Çocuk Gelişimi Programı?nın amacı, değişen bilim, teknoloji, eğitim ve sağlık gereksinimleri doğrultusunda 0-18 yaş sağlıklı/özel gereksinimli çocuk ve gençlerin gelişimine ve eğitimine destek veren, aileleri ve toplumu çocuğun sağlıklı gelişimi ve eğitimi konusunda aydınlatan bireyler yetiştirmektir. Aynı zamanda çocukların bakımı, korunması, eğitimini üstlenerek, mesleki sorumluluklarının bilincinde, etik değerlere bağlı, yaratıcı ve eleştirel düşünebilen, toplumsal olaylara duyarlı, farklılıklara ve insan haklarına saygılı çocuk gelişimciler yetiştirmektir.",
+			"BolumDili":"Programın eğitim dili Türkçe’dir.",
+            "Misyon":"Değişen bilim, teknoloji, eğitim ve sağlık gereksinimleri doğrultusunda, 0-18 yaş sağlıklı/özel gereksinimli çocuk ve gençlerin gelişimine ve eğitimine destek veren,  aileleri ve toplumu çocuğun sağlıklı gelişimi ve eğitimi konusunda aydınlatan, bakım, koruma, eğitim ve araştırma becerilerine sahip, alanın ara eleman ihtiyacını karşılayacak çocuk gelişimciler yetiştirmektir.",
+			"Vizyon":"Çocuk Gelişimi alanında eğitimin önemini arttırmak, çocuk gelişiminin diğer disiplinlerle ve meslek alanlarıyla olan ilişkisine dair bilinç oluşturmak, yaratıcı, güvenli, toplumsal değerleri bilen, bakım, eğitim hizmeti verebilen, ulusal ve uluslararası sağlık ve eğitim alanında öncelikle tercih edilen çocuk gelişimcileri yetiştiren bir program olmaktır.",
+			"Danisma":[
+            {"AdSoyad":"Eda CEYLAN", "CalistigiFirma":"Irmak Okulları", "GorevPozisyon":"İlkokul Müdür Yardımcısı"},
+            {"AdSoyad":"Melisa ORTAÇ", "CalistigiFirma":"Fevziye Mektepleri Işık Okulları Erenköy Işık Okulları", "GorevPozisyon":"Anaokulu Öğretmeni"},
+            {"AdSoyad":"Nazlı Enif DİPŞAR", "CalistigiFirma":"Kartal Belediyesi Kreşler Müdürlüğü", "GorevPozisyon":"Kreşler Müdürü"},
+            {"AdSoyad":"Orkide AKSOY", "CalistigiFirma":"Saint Joseph Lisesi Eğitim Vakfı (SAJEV) Küçük Prens Okulları", "GorevPozisyon":"Psikolojik Danışmanlık ve Rehberllik Koodinatörü"}, 
+			{"AdSoyad":"Diğdem ENEREM", "CalistigiFirma":"Maltepe Üniversitesi Meslek Yüksekokulu", "GorevPozisyon":"Çocuk Gelişimi Programı-Öğretim Görevlisi"},
+            {"AdSoyad":"Gülşah AYDIN YEEŞİLYURT", "CalistigiFirma":"Maltepe Üniversitesi Meslek Yüksekokulu", "GorevPozisyon":"Çocuk Gelişimi Programı-Öğretim Görevlisi"},
+            {"AdSoyad":"Özlem İLKER", "CalistigiFirma":"Maltepe Üniversitesi Meslek Yüksekokulu", "GorevPozisyon":"Çocuk Gelişimi Programı-Öğretim Görevlisi"},
+            {"AdSoyad":"Berrak SAĞLAM", "CalistigiFirma":"Marmara Eğitim Kurumları İstanbul Marmara Anaokulu", "GorevPozisyon":"Anaokulu Öğretmeni (Mezun öğrenci)"},
+			{"AdSoyad":"Gülizi ÖZER", "CalistigiFirma":"Eyüboğlu Eğitim Kurumları", "GorevPozisyon":"Anaokulu Öğretmeni (Mezun öğrenci)"}
+            ],
+            "Program Temel Ogrenme Ciktilari": "1.0-18 yaş arası bireylerin fiziksel, bilişsel, sosyal-duygusal gelişim ile dil gelişimi ve özbakım becerilerine ve bu yaş aralığındaki bireylerin öğrenme özelliklerine ilişkin temel kuramsal ve uygulamaya yönelik bilgilere sahiptir. 2.Ekolojik sistem yaklaşımı çerçevesinde, gelişimin sağlıklı bir şekilde gerçekleşebilmesi için gerekli olan fizyolojik, psikolojik ve sosyolojik süreçleri bilir ve bu süreçlerin desteklenmesinde bir ekip üyesi olarak rol alır. 3.Özel gereksinimli bireylerin gelişim özelliklerini bilir ve bu bireylerin ailelerini, onlara rehberlik edebilecek kişi ve kurumlara yönlendirecek donanıma sahiptir. 4.Etkin öğretimin gerçekleştirilebilmesi için oyun, drama, müzik ve bilgisayar öğretimi ile ilgili gerekli olan yöntemleri ve araç-gereçleri kullanabilecek bilgilere sahiptir. 5.Çocuk gelişimi alanında edindiği temel düzeydeki bilgi ve becerileri kullanarak 0-18 yaş arasındaki bireylerin gelişimsel sorunlarını analiz eder, bu sorunların çözümüne yönelik önerilerde bulunup ekip çalışması yapar. 6.Çocuk gelişimi alanındaki temel bilgi kaynaklarını kullanarak fiziksel, bilişsel, sosyal- duygusal gelişim, dil gelişimi ve özbakım becerileriyle ilgili verileri yorumlar ve bu alanlara yönelik etkinlikler planlayıp okul öncesi eğitim kurumları ile özel eğitim kurumlarında bu etkinlikleri uygular. 7.Bütüncül ve hümanistik yaklaşım ilkeleri doğrultusunda, çocuğun temel hak ve özgürlüklerini bilir ve bu bilgileri, bakım ve eğitim alanlarında kullanır. 8.Edindiği kuramsal ve uygulamaya yönelik bilgileri kullanarak çocuk gelişimi alanı ile ilgili kendisine verilen bir görevi bağımsız olarak yürütür. 9.Bir ekip üyesi olarak çocuk gelişimi alanındaki sorunları tanımlar ve bu sorunların çözümü için planlanan sosyal sorumluluk çalışmaları ile topluma hizmet uygulamalarında sorumluluk ve yer alır. 10.Yaşam boyu öğrenme bilincine sahiptir ve alanı ile ilgili bilgilerini, toplumsal sorumluluk bilinciyle iş ve gündelik yaşamında kullanır. 11.Çocuk gelişimi alanında edindiği temel düzeydeki bilgi ve becerileri eleştirel bir yaklaşımla değerlendirir. 12.Kendini bir birey olarak tanır ve öğrenme gereksinimlerini belirleyerek öğrenimini ileri eğitim düzeyine yönlendirebilir. 13.Çocuk gelişimi alanıyla ilgili konularda sahip olduğu temel bilgi ve beceriler düzeyinde ilgili kişi ve kurumları bilgilendirir; düşüncelerini ve sorunlara ilişkin çözüm önerilerini uzman olan ve olmayan kişilerle paylaşır. 14.Dış görünüşü, tutum ve davranışları ile toplumdaki diğer kişilere örnek olur; demokrasi, insan hakları, toplumsal, bilimsel ve mesleki etik değerlere, ilgili yasa, yönetmelik ve mevzuata uygun davranır. 15.Bebek, çocuk ve aileleri de kapsayacak şekilde, kalite yönetimi ve süreçleri ile çevre koruma ve iş güvenliği konularında yeterli bilince sahiptir ve bu süreçlere uygun hareket eder.",
+			"UstDereceyeGecis":"Bu programdan mezun olan öğrenciler, belirlenmiş kurallar uyarınca, lisans programlarına devam edebilirler.",
+			"Ders Tanimlari":"https://www.maltepe.edu.tr/myo/tr/ders-tanimlari-0141"
+        },
+        {
+            "BolumAdi":"Halkla İliskiler Ve Tanıtım",
+            "BolumHakkinda":"Teorik bilgileri pratik deneyimlere dönüştürmeye dayalı eğitim anlayışıyla yola çıkan Halkla İlişkiler ve Tanıtım Programı, alanında uzman ve sektör deneyimi bulunan eğitim kadrosuyla öğrencileri geleceğe hazırlamaktadır. Program; iş dünyasının aranan iletişimcilerini yetiştirmek için Halkla ilişkiler ve reklamcılık alanlarında insan kaynağı ihtiyacına katkıda bulunabilecek yeterlilikte düzenlenmiştir. Bu bağlamda danışma kurullarımızda sektörün önde gelen markalarının üst düzey yöneticileri yer almaktadır. Akademi & sektör işbirliğine verilen önem çerçevesinde öğrencilerimize iş deneyimi kazandırılmakta ve sektör yöneticileri ile ortak akademik yayınlar yapılmaktadır. Düşünen, öğrenen, uygulayan ve böylece başarıyı yakalayan iletişimciler; geleneksel işletme yaklaşımının değiştiği ve müşteri odaklı yeni eğilimlerin merkezde yer aldığı çağımızda aldıkları eğitimle tercih edilirler. Halkla İlişkiler ve Tanıtım Programı ön lisans eğitiminin amacı; teorik ve uygulamalı olarak hem yönetsel becerileri sağlamak hem de mesleki eğitimler konusunda uzmanlar yetiştirmektir. Program; halkla ilişkiler, kurumsal iletişim, marka yönetimi, reklam, pazarlama, sosyal sorumluluk gibi ana derslerin yanısıra işletmecilik ve sosyal bilimlerle ilgili alan seçmeli dersler ve üniversitemizin zengin seçmeli ders havuzunda yer alan kültür, sanat, bilim derslerinden oluşmaktadır. Programın uygulanma sürecinde, teorik bilgilerle birlikte uygulama dersleri ile öğrencilerin kampanya hazırlama, medya planlama, reklam yapım ve yönetimi, metin yazarlığı, pazarlama, iletişim becerileri gibi konularda eğitime çift yönlü katılımı sağlanmaktadır. Maltepe Üniversitesi Meslek Yüksekokulu Halkla İlişkiler ve Tanıtım Programının amacı; bilimsel yöntemler ışığında nitelikli, mesleki bilgi ile donanmış, sorumluluk taşıyabilen, sorunlara kolayca çözüm üretebilen, özgüveni tam, iş ahlakına sahip, değişimlere ve gelişmelere açık, sektörün ve toplumun ihtiyaç duyduğu nitelikte eğitimli bireyler yetiştirmektir.",
+			"BolumTanimi":"Maltepe Üniversitesi Meslek Yüksekokulu Halkla İlişkiler ve Tanıtım Programının amacı; bilimsel yöntemler ışığında nitelikli, mesleki bilgi ve mesleki yabancı dil ile donanımlı, sorumluluk taşıyabilen, sorunlara kolayca çözüm üretebilen özgüveni tam, iş ahlakına sahip, değişimlere ve gelişmelere açık, sektörün ve toplumun ihtiyaç duyduğu kalitede eğitimli bireyleri yetiştirmektir.",
+			"BolumDili":"Programın eğitim dili Türkçe’dir.",
+            "Misyon":"Çağın gereksinimleri doğrultusunda ve toplumsal sorumluluk bilinciyle; evrensel bilgi ve kültüre katkıda bulunabilecek bireyler yetiştirmek için uygun öğrenme ortamı sunmak, sektör ihtiyaçlarına çözüm ortağı olabilecek nitelikte yaratıcı ve yenilikçi bakış açıları kazandırmak, Halkla İlişkiler ve Reklamcılık alanında aranan uzmanlar yetiştirmek.",
+			"Vizyon":"Üniversitemizin “Düşüncede özgür, eğitimde çağdaş, bilimde evrensel” ilkesinden yola çıkarak;  sürekli öğrenme-yenilenme anlayışıyla ulusal ve uluslararası platformda söz sahibi olmak, İletişim Bilimlerinin global dinamiklerini etkileyebilmek ve vizyoner bakış açılarıyla dünyanın geleceğini biçimlendirecek Halkla İlişkiler uzmanları yetiştirmek.",
+			"Danisma":[
+            {"AdSoyad":"Nuran Karaağaoğlu", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Dr. Öğr. Üyesi/Bölüm Başkanı"},
+            {"AdSoyad":"Meltem Çiçek", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Dr. Öğr. Üyesi"},
+            {"AdSoyad":"Ömer Bayraktaroğlu", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Öğr. Gör."},
+            {"AdSoyad":"Gürdal Ülger", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Prof. Dr. Öğr. Üyesi"}, 
+			{"AdSoyad":"Canan Soysal", "CalistigiFirma":"ISG Havalimanı", "GorevPozisyon":"Kurumsal İletişim Müdürü"},
+            {"AdSoyad":"Elif Yalt Başeski", "CalistigiFirma":"Paladyum Elektronik Para ve Ödeme Hizmetleri A.Ş.-PEP", "GorevPozisyon":"Pazarlama Direktörü"},
+            {"AdSoyad":"Gökhan Şengül", "CalistigiFirma":"İGA Havalimanı", "GorevPozisyon":"Kurumsal İletişim Direktörü"},
+            {"AdSoyad":"Halisa Şebnem Akgül", "CalistigiFirma":"İstanbul Büyükşehir Belediyesi", "GorevPozisyon":"Halkla İlişkiler Müdürlüğü Raporlama Şefi"},
+			{"AdSoyad":"Ender Uysal", "CalistigiFirma":"MOD Ajans", "GorevPozisyon":"Reklamcı"},
+            {"AdSoyad":"Çiçek Akcan", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"SEM Müdürü"},
+            {"AdSoyad":"Nurcan Kocaman", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Öğrenci"},
+            {"AdSoyad":"Ömer Niyazi Erten", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Halkla İlişkiler ve Tanıtım Uzmanı"}
+			],
+            "Program Temel Ogrenme Ciktilari": "1.İletişim ile ilgili temel kavramları ve kuramları öğrenir, çözümler ve sorgular. 2.İletişimin iş hayatındaki gücünü özümser. 3.Kitle iletişim araçlarını ve kullanım metotlarını çözer. 4.Stratejik iletişim çabalarının işleyişini ve görevlerini özümser. 5.Halkla ilişkiler ve tanıtım alanı ile ilgili toplumsal sorunların çözümünde karar alır, uygular, üstlendiği görev ve sorumlulukları yerine getirir ve gerektiğinde inisiyatif alır. 6.Bir yabancı dili kullanarak alanındaki bilgileri takip eder ve meslektaşları ile iletişim kurar. 7.Pazarlamanın temel kavramlarını öğrenerek pazar araştırmalarını yapar. 8.Pazarlama sektöründeki yeni gelişmeleri takip eder ve iletişim, tanıtım yöntemleriyle bütünleştirip uygular. 9.Tüketici eğilimlerini ve davranışlarını sorgulayıp yorumlar. 10.İletişim, halkla ilişkiler, reklam ve tanıtım alanındaki yasal ve etik değerleri insan haklarını da gözeterek uygular ve çözüm üretir. 11.Medya, halkla ilişkiler ve reklam ilişkisini planlar, projelendirir ve uygular. 12.Alanının gerektirdiği bilgileri ekip çalışmaları çerçevesinde geliştirip uygular. 13.Alanının gerektirdiği düzeyde bilgisayar yazılımı ile birlikte bilişim ve iletişim teknolojilerini kullanabilir.",
+			"UstDereceyeGecis":"Bu programdan mezun olan öğrenciler, belirlenmiş kurallar uyarınca, lisans programlarına devam edebilirler.",
+			"Ders Tanimlari":"https://www.maltepe.edu.tr/myo/tr/ders-tanimlari-0157"
+        },
+        {
+            "BolumAdi":"İlk ve Acil Yardım",
+            "BolumHakkinda":"Acil yardım ambulansı, hasta nakil ambulansı, hava (helikopter ve uçak) ve deniz ambulanslarında, diğer acil yardım araçlarında, hastane, poliklinik v.b. acil sağlık hizmeti sunulan tüm acil servislerde görev yapabilecek, bilgi ve becerilerini tıptaki yenilikler doğrultusunda sürekli güncelleyecek teknikerler yetiştirmektir.",
+			"BolumTanimi":"İlk ve Acil Yardım Programı, acil durumlarda hastaya en doğru ilk ve acil müdahalelerin yapılması ile hasta nakli sırasında izlenecek adımlar konusunda uzmanlaşmış sağlık çalışanları yetiştiren önlisans programıdır. Eğitim ve öğretim süresince laboratuvar ve staj destekli eğitimin yanı sıra ambulansta uygulama yapma imkanına sahip olan öğrenciler; temel yaşam desteği uygulamasında da ehil olarak mezun olurlar. Program mezunları 'İlk ve Acil Yardım Teknikeri' unvanını alırlar.",
+			"BolumDili":"Programın eğitim dili Türkçe’dir.",
+            "Misyon":"Hastane öncesi acil sağlık hizmetlerinde, hasta ve yaralılara temel ve ileri yaşam desteği verebilen; her türlü sistem travmasını tanıyıp uygun acil yaklaşımı yapabilen; ilk müdahaleleri yapılmış hasta ya da yaralıların ambulansla güvenli bir şekilde hastanelere ulaşmasını sağlayan sağlık teknikeri yetiştirmektir.",
+			"Vizyon":"Değişen koşullara uyum sağlayabilen, sorun çözme becerisine sahip, üretken, çevresi ile etkin iletişim kurabilen, ekip çalışması yapabilen, çağdaş gereksinimler doğrultusunda mesleki becerilerle donatılmış ve toplumsal sorumlulukları bilen sağlık teknikerlerinin yetiştirilmesinde lider ve öncü eğitim kurumu olmaktır.",
+			"Danisma":[
+            {"AdSoyad":"Tarık BALCI", "CalistigiFirma":"Paramedik Derneği İl Temsilcisi/ İlkyardım Eğitmeni", "GorevPozisyon":"Paramedik"},
+            {"AdSoyad":"Özlem GÜNEYSEL", "CalistigiFirma":"Maltepe Üniversitesi Tıp Fakültesi Hastanesi", "GorevPozisyon":"Acil Hekimi/ Acil Klinik Şefi"},
+            {"AdSoyad":"Özen İNAM", "CalistigiFirma":"Maltepe Üniversitesi MYO", "GorevPozisyon":"Öğr. Gör/Program Başkanı"},
+            {"AdSoyad":"Sema TÜTÜNCÜ", "CalistigiFirma":"Maltepe Üniversitesi MYO", "GorevPozisyon":"Öğr. Görevlisi"}, 
+			{"AdSoyad":"Handan Yurtyeri DOĞAN", "CalistigiFirma":"Maltepe Üniversitesi MYO", "GorevPozisyon":"Öğr Üyesi/ Bölüm Başkanı"},
+            {"AdSoyad":"Adem IRMAK", "CalistigiFirma":"Maltepe Üniversitesi Tıp Fakültesi Hastanesi", "GorevPozisyon":"Paramedik/ Acil Servis Personeli (Mezun Öğrenci)"},
+            {"AdSoyad":"Yasemin KAYA", "CalistigiFirma":"Maltepe Üniversitesi MYO- İlk ve Acil Yardım Programı (Bölüm Birincisi Mezun)", "GorevPozisyon":"Mezun Öğrenci"},
+            {"AdSoyad":"Ahmet Cemal AKÇI", "CalistigiFirma":"Özel Baran Ambulans", "GorevPozisyon":"Paramedik/ Ambulans/ (Hemşirelik Öğrencisi)"},
+			{"AdSoyad":"Rüçhan Tuğçen Karagül", "CalistigiFirma":"İl Sağlık Müdürlüğü 112 İstasyonu", "GorevPozisyon":"Paramedik/ Ambulans"},
+            {"AdSoyad":"Nurullah ERMİŞ", "CalistigiFirma":"Maltepe Üniversitesi MYO", "GorevPozisyon":"Öğretim Üyesi /Travmatoloji Hekimi/ Doçent"},
+            {"AdSoyad":"Baransel SAYGI", "CalistigiFirma":"Maltepe Üniversitesi Sağlık Bilimleri Yüksekokulu", "GorevPozisyon":"Öğretim Üyesi /Travmatoloji Profesörü"}
+			],
+            "Program Temel Ogrenme Ciktilari": "1.Ani hastalanma veya yaralanma durumlarında olay yerine hızla ulaşarak, varsa doktor ile birlikte durumu değerlendirir, gerekiyorsa ilk müdahaleyi yapar ve uygun hastane acil servisine doğru yöntemle naklini sağlar. 2.Mevzuatın verdiği yetki çerçevesinde acil hasta ve yaralıya müdahale sırasında, tıbbi otoritelerin tanıdığı klavuzları ve mevzuatın belirttiği akış çizelgelerini uygular. 3.Dünyada ve Türkiye?de acil sağlık hizmetlerinin durumu ve ilk ve acil yardım teknikerinin bu sistem içindeki görev ve sorumluluklarını bilir. 4.Hastaya ve hastalığın özelliklerine uygun ilaçları hazırlayıp, uygular. 5.Hasta ile ilgili gerekli kayıtları usulüne uygun şekilde tutar. 6.Olay yerinde sakin, hızlı, seri ve doğru karar verir. 7.Temel mesleki bilgilere sahip olur. 8.Hasta, hasta yakınları ve diğer sağlık profesyonelleri ile sözlü ve yazılı iletişim kurar. 9.Acil yardım durumunda hem hastayı hem de kendisini psikolojik ve sosyal açıdan korumak için gerekli bilgi ve beceriyi kullanır. (acil durumlarda etkili iletişim) 10.Mesleki ve evrensel değerler doğrultusunda sürekli mesleki gelişim anlayışına sahip olur. 11.Entellektüel ve sosyal açıdan kendisini geliştirmeye yönelik olarak ulusal ve evrensel değerleri ilke edinir. 12.Kalitenin geliştirilmesi ve kalite standartları konusunda bilgi sahibi olur.",
+			"UstDereceyeGecis":"İlk ve Acil Yardım Programı mezunları, ÖSYM tarafından düzenlenen Dikey Geçiş Sınavında başarılı olmaları durumunda üniversitelerin; Acil Yardım ve Afet Yönetimi, Hemşirelik, Hemşirelik ve Sağlık Hizmetleri bölümlerinde lisans eğitimine devam edebilirler.",
+			"Ders Tanimlari":"https://www.maltepe.edu.tr/myo/tr/ders-tanimlari-161"
+        },
+        {
+            "BolumAdi":"İş Sağlığı ve Güvenliği",
+            "BolumHakkinda":"İş Sağlığı ve Güvenliği Programı,  iş hayatında oluşabilecek iş kazaları ve meslek hastalıkları ile ilgili olarak, teknoloji ve bilgi ışığında tüm sanayi ve hizmet sektöründe; iş güvenliğine yönelik, iş güvenliği sorumluluğu üstlenebilecek bilgili, yetkin,  teknik personel ihtiyacını yetiştirmek üzere kurulmuştur. Programımızın ana hedefi; işyerlerinde riskleri en aza indirerek, iş ve işçi verimini arttırmak, sağlıklı ve güvenli bir çalışma ortamı oluşturmaktır. Ayrıca çalışan tüm personelin iş ve meslek hastalıkları konusunda bilinçlendirilmesi ile iş kazalarının önlenmesini veya azaltılabilmesini sağlamaktır. Programın eğitim süresi 2 yıldır. Program şartlarını yerine getiren öğrencilerimiz, mezuniyet koşullarını sağladıkları takdirde, Maltepe Üniversitesi Meslek Yüksekokulu’ndan “İş Sağlığı ve Güvenliği Teknikeri” unvanıyla mezun olmaktadırlar.",
+			"BolumTanimi":"İlk ve Acil Yardım Programı, acil durumlarda hastaya en doğru ilk ve acil müdahalelerin yapılması ile hasta nakli sırasında izlenecek adımlar konusunda uzmanlaşmış sağlık çalışanları yetiştiren önlisans programıdır. Eğitim ve öğretim süresince laboratuvar ve staj destekli eğitimin yanı sıra ambulansta uygulama yapma imkanına sahip olan öğrenciler; temel yaşam desteği uygulamasında da ehil olarak mezun olurlar. Program mezunları 'İlk ve Acil Yardım Teknikeri' unvanını alırlar.",
+			"BolumDili":"Programın eğitim dili Türkçe’dir.",
+            "Misyon":"Günümüzde bütün sektörlerde iş sağlığı ve güvenliği elemanı ihtiyacı gittikçe artmaktadır. Ne yazık ki Türkiye’de iş güvenliği alanında eğitimli teknik eleman sayısı ihtiyacı karşılayacak düzeyde değildir. Bu yüzden iş sağlığı ve güvenliği alanında faaliyet gösterecek kişi sayısının arttırılması ve bu kişilerin yetiştirilmeleri ve eğitilmeleri gerekmektedir. İş sağlığı ve güvenliğinin oldukça kapsamlı bir alan olması nedeni ile koruyucu ve önleyici hizmetlerin günün şartlarına uygun hale gelebilmesi için bu alanda hizmet verecek kişi ve kuruluşların eğitimli ve bilgili hale getirilmeleri büyük önem taşımaktadır. İş Sağlığı ve Güvenliği Kanunu ile, özel sektörde ve kamu sektöründe, iş sağlığı ve güvenliği ile ilgili personellerin istihdamı zorunlu hale getirilmiştir. Belirtilen amaçlarla misyonumuz, Türkiye'de hizmet ve sanayi alanlarında aranılan teknik elemanları yetiştiren bir program olmaktır.",
+			"Vizyon":"Programımız, ülkemizde hem kamu hem de özel sektör alanında ihtiyaç duyulan, günümüz şatlarına ve çağın gereklerine uygun, çağdaş eğitim metotlarıyla eğitilmiş ve bilgilendirilmiş, mesleki alanda yeterli deneyime sahip olabilecek şekilde teknik eleman yetiştirmeyi hedeflemiştir.",
+			"Danisma":[
+            {"AdSoyad":"Mustafa KÖSEM", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Bölüm Başkanı / Öğretim Görevlisi"},
+            {"AdSoyad":"Meral Bayraktar ÇAKAR", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Doktor Öğretim Üyesi"},
+            {"AdSoyad":"Ali Kemal EYÜBOĞLU", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Doktor Öğretim Üyesi"},
+            {"AdSoyad":"Hacer DÜZEN", "CalistigiFirma":"Maltepe Üniversitesi", "GorevPozisyon":"Doktor Öğretim Üyesi"}, 
+			{"AdSoyad":"Lütfi ALPSOY", "CalistigiFirma":"Prizma OSGB", "GorevPozisyon":"Kurucu / Emekli İş Başmüfettişi"},
+            {"AdSoyad":"Şenol YILMAZ", "CalistigiFirma":"Yorum Akademi", "GorevPozisyon":"Kurucu"},
+            {"AdSoyad":"Gökhan BAYRAKDAR", "CalistigiFirma":"DEARSAN", "GorevPozisyon":"A Sınıfı İş Güvenliği Uzmanı"},
+            {"AdSoyad":"Doğu Deniz DÖNMEZ", "CalistigiFirma":"Çuhadaroğlu Alüminyum", "GorevPozisyon":"B Sınıfı İş Güvenliği Uzmanı"},
+			{"AdSoyad":"İlke ENGİN", "CalistigiFirma":"Vadistanbul AVM Hizmetleri A.Ş.", "GorevPozisyon":"B Sınıfı İş Güvenliği Uzmanı"},
+            {"AdSoyad":"Sinem UZUNER", "CalistigiFirma":"BUGA Otis Asansör", "GorevPozisyon":"C Sınıfı İş Güvenliği Uzmanı / Eski Mezun"},
+			],
+            "Program Temel Ogrenme Ciktilari": "1.İş yerindeki iş kazası ve meslek hastalığı risklerini tespit eder. 2.İşyeri dışından kaynaklı riskleri analiz edebilir. 3.Acil durumlarla ilgili yönetim ve kontrol bilgisine sahip olur. 4.Alanı ile ilgili temel düzeyde kuramsal ve uygulamalı bilgi birikimine sahip olur. 5.İş Sağlığı ve Güvenliği ile ilgili mevzuat bilgisine ve gerekli teorik altyapıya sahip olur. 6.Bilim ve teknolojideki gelişmeleri takip etme ve kendini sürekli geliştirme bilincine sahiptir. 7.Alanındaki yenilikleri takip edebilecek düzeyde mesleki dil bilgisine sahip olur. 8.İşyerinde karşılaştığı problemlerle ilgili çözüm üretme becerisine sahip olur. 9.Sahip olduğu bilgileri modern yöntemlerle sentezleyerek karşılaştığı sorunları çözebilir. 10.İşyeri ile ilgili gerekli özen ile birlikte sorumluluk duygusuna sahip olur. 11.Çalışan psikolojisini bilir. 12.İşyerlerinde iş güvenliği kültürü oluşmasına katkı sağlayabilir. 13.Sağlıklı ve güvenli bir çalışma ortamı yaratabilir. 14.Yasal mevzuat ve şartlara uygun olarak işin yürütülmesini sağlayabilir. 15.Ekip çalışması yapabilir, yaptığı iş ile ilgili olarak çalışma hayatında uygulamalar yapabilir.",
+			"UstDereceyeGecis":"Bu programdan mezun olan öğrenciler, Dikey Geçiş Sınavında (DGS) başarılı oldukları taktirde eğitimlerine lisans seviyesinde devam edebilirler.",
+			"Ders Tanimlari":"https://www.maltepe.edu.tr/myo/tr/ders-tanimlari-0153"
+        }
+        
+},
+
+
+    
+    
+
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+
+    
+    
+
+
+    
+    
+
+
+    
+    
